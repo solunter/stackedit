@@ -23,10 +23,10 @@ Boostnote也是全平台支持，看主页有很多开发者合作。boostnote�
 
 在linux平台上，如果想联动Dropbox, 在Dropbox文件夹和boostnote默认储存note的文件夹之间建立软链接就可以了, 这样在boostnote里保存的note就会自动同步到Dropbox, 还是挺方便的. 后面用到的VNote就是这么干的. 
 
-关注一下后续发展,
+关注一下后续发展, 期待变得更好用. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzQ1MDgzMiw4MjY4NzA1NV19
+eyJoaXN0b3J5IjpbMTM5NTkyOTI1Miw4MjY4NzA1NV19
 -->
