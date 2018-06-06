@@ -21,10 +21,10 @@
 ## Boostnote
 Boostnote也是全平台支持，看主页有很多开发者合作。boostnote是可以支持Dropbox云同步的,但是app的体验也太差劲了,都比不上Joplin,UI丑,仿佛是十几年前的应用,功能很有限,还有就是保存到Dropbox里的是`.cson`文件,不是很懂．不过他们有个社区[boostlog](https://boostlog.io/)，我有关注他们的fb，会看到一些关于编程的分享．
 
-在linux平台上，如果想联动Dropbox, 在Dropbox文件夹和boostnote
+在linux平台上，如果想联动Dropbox, 在Dropbox文件夹和boostnote默认储存note的文件夹之间建立软链接就可以了, 这样在boostnote里保存的note就会自动同步到Dropbox, 还是挺方便的. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNDE2NDE4LDgyNjg3MDU1XX0=
+eyJoaXN0b3J5IjpbLTE2MjI0MTQwOCw4MjY4NzA1NV19
 -->
