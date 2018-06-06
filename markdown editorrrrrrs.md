@@ -19,10 +19,10 @@
 *（写着写着，这stackedit导入照片有点麻烦，得通过Google Drive传）*
 
 ## Boostnote
-Boostnote也是全平台支持，看主页有很多开发者合作。boostnote是可以支持Dropbox云同步的,但是app的体验也太差劲了,都比不上Joplin,UI丑,仿佛是十几年前的应用,功能很有限,还有就是保存到Dropbox里的是`.cson`文件,不是很懂，
+Boostnote也是全平台支持，看主页有很多开发者合作。boostnote是可以支持Dropbox云同步的,但是app的体验也太差劲了,都比不上Joplin,UI丑,仿佛是十几年前的应用,功能很有限,还有就是保存到Dropbox里的是`.cson`文件,不是很懂．不过他们有个社区
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzkzNDM4Myw4MjY4NzA1NV19
+eyJoaXN0b3J5IjpbMzc4MDQyMDE2LDgyNjg3MDU1XX0=
 -->
