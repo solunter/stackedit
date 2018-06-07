@@ -26,9 +26,10 @@ Boostnote也是全平台支持，看主页有很多开发者合作。boostnote�
 关注一下后续发展, 期待变得更好用. 
 
 ## VNote
-
+依据作者, VNote的设计灵感来自vim
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzUxNTczNiw4MjY4NzA1NV19
+eyJoaXN0b3J5IjpbMTg0OTk5MzQ2LDE2OTc1MTU3MzYsODI2OD
+cwNTVdfQ==
 -->
