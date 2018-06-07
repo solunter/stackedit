@@ -41,13 +41,13 @@ Stackedit同步的时候, 文件名不能有中文, 否则就报错.
 hexo是真的蛮好用的, 然后又很简单就部署到github, 生成博客, 主题也有很多选择, 符合我的审美哈哈哈. 不过hexo就已经不是一个简单的编辑器了. 之前写工作日志一直就用的是hexo, 当然就折腾了蛮多. 
 
 ---
-在pad上目前没有发现什么好用的app. Joplin和Boostnote都不好使. MWeb
+在pad上目前没有发现什么好用的app. Joplin和Boostnote都不好使. MWeb倒是可以通过GoogleDrive导入笔记, 也支持LaTeX公式, 但是GoogleDrive同步又有bug. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTg5MTYxOCw4NTU1MDM0OTIsODMxMz
+eyJoaXN0b3J5IjpbMjAyMDk4MDI4MCw4NTU1MDM0OTIsODMxMz
 ExOTM4LC01ODU4MTQyNSwxNjk3NTE1NzM2LDgyNjg3MDU1XX0=
 
 -->
