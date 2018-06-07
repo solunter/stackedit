@@ -36,13 +36,12 @@ Stackedit直接在浏览器上编辑就可以了, 可以同步Dropbox, Google Dr
 顺带折腾了一下, 在本地搭建服务器, 运行Stackedit. 最后整了半天成功了, 但是发现不能同步到github, gg... 罢了, 还是直接浏览器编辑吧.
 
 ## hexo
-hexo是真的蛮好用的, 然后又rong
+hexo是真的蛮好用的, 然后又很简单就部署到github, 生成博客, 主题也有很多选择, 符合我的审美哈哈哈
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE2NDIwNzQsODU1NTAzNDkyLDgzMT
-MxMTkzOCwtNTg1ODE0MjUsMTY5NzUxNTczNiw4MjY4NzA1NV19
-
+eyJoaXN0b3J5IjpbOTMyMzA2NDksODU1NTAzNDkyLDgzMTMxMT
+kzOCwtNTg1ODE0MjUsMTY5NzUxNTczNiw4MjY4NzA1NV19
 -->
