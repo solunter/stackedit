@@ -33,13 +33,13 @@ VNote的几个默认主题渲染效果其实不是很满意, 强迫症又犯了,
 ## Stackedit
 Stackedit直接在浏览器上编辑就可以了, 可以同步Dropbox, Google Drive, github, 很方便, 保存的就只有`.md`文件, 不拖家带口的. (GoogleDrive同步的文件不晓得为什么是`.TXT`, 而且更新后不是覆盖是新建一个文件, 很麻烦, 没法用.
 
-顺带
+顺带折腾了一下, 在本地搭建服务器, 运行Stackedit. 最后整了半天成功了, 但是发现meiyo
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NjU2MDUyLDg1NTUwMzQ5Miw4MzEzMT
-E5MzgsLTU4NTgxNDI1LDE2OTc1MTU3MzYsODI2ODcwNTVdfQ==
+eyJoaXN0b3J5IjpbMTk4MDc5NzE1OSw4NTU1MDM0OTIsODMxMz
+ExOTM4LC01ODU4MTQyNSwxNjk3NTE1NzM2LDgyNjg3MDU1XX0=
 
 -->
