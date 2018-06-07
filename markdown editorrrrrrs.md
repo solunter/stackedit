@@ -31,12 +31,12 @@ Boostnote也是全平台支持，看主页有很多开发者合作。boostnote�
 VNote的几个默认主题渲染效果其实不是很满意, 强迫症又犯了, 昨天写着写着笔记, 觉得代码高亮太丑, 去[Highlight.js](https://highlightjs.org/)下载了几种样式, 顺带找了些阅读模式的渲染样式, 但是直接使用会出现彼此冲突, 效果奇丑无比. 最好的方式是去改默认的主题, 当然这就又是另外一个故事了, 将来再折腾吧......
 
 ## Stackedit
-Stackedit直接在浏览器上编辑就可以了, 可以同步Dropbox, Google Drive, github
+Stackedit直接在浏览器上编辑就可以了, 可以同步Dropbox, Google Drive, github, 很方便, 保存的就只有`.md`文件, 不拖家dai
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjgwMDM0NSw4MzEzMTE5MzgsLTU4NT
-gxNDI1LDE2OTc1MTU3MzYsODI2ODcwNTVdfQ==
+eyJoaXN0b3J5IjpbODYwOTE5NTM3LDgzMTMxMTkzOCwtNTg1OD
+E0MjUsMTY5NzUxNTczNiw4MjY4NzA1NV19
 -->
