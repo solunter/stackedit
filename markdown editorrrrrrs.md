@@ -26,9 +26,12 @@ Boostnote也是全平台支持，看主页有很多开发者合作。boostnote�
 关注一下后续发展, 期待变得更好用. 
 
 ## VNote
-依据作者, VNote的设计灵感来自vim. 在linux里选择的编辑器就是VNote, 默认保存的note文件
+依据作者, VNote的设计灵感来自vim. 在linux里选择的编辑器就是VNote, 默认保存的note文件软链接到Dropbox本地文件夹, 一旦有更新就会自动同步到Dropbox云端(当然需要网络支持). 
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTIxMTg5NSwxNjk3NTE1NzM2LDgyNj
+eyJoaXN0b3J5IjpbMTAxODY5NzA4NCwxNjk3NTE1NzM2LDgyNj
 g3MDU1XX0=
 -->
