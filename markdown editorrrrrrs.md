@@ -38,13 +38,16 @@ Stackedit同步的时候, 文件名不能有中文, 否则就报错.
 顺带折腾了一下, 在本地搭建服务器, 运行Stackedit. 最后整了半天成功了, 但是发现不能同步到github, gg... 罢了, 还是直接浏览器编辑吧.
 
 ## hexo
-hexo是真的蛮好用的, 然后又很简单就部署到github, 生成博客, 主题也有很多选择, 符合我的审美哈哈哈. 不过hexo就已经不是一个简单的编辑器了. 之前写
+hexo是真的蛮好用的, 然后又很简单就部署到github, 生成博客, 主题也有很多选择, 符合我的审美哈哈哈. 不过hexo就已经不是一个简单的编辑器了. 之前写工作日志一直就用的是hexo, 当然就折腾了蛮多. 
+
+---
+za
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMzMzQ3NTMsODU1NTAzNDkyLDgzMT
-MxMTkzOCwtNTg1ODE0MjUsMTY5NzUxNTczNiw4MjY4NzA1NV19
+eyJoaXN0b3J5IjpbODI0MDM5NjcwLDg1NTUwMzQ5Miw4MzEzMT
+E5MzgsLTU4NTgxNDI1LDE2OTc1MTU3MzYsODI2ODcwNTVdfQ==
 
 -->
